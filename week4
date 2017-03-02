@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+  
+  
+  <html>
+     <head>
+         <title> learning HTML forms </title>
+     </head>
+<body>
+    <h1>course feedback form</h1>
+  
+  <form>
+       <p>username: </p>
+        <imput type="text" placeholder="enter your username">       
+      </imput>
+    </form>
+  <form>
+      <p>password: </p>
+      <input type="password" placeholder="password case-sensitive">
+  </form> 
+  
+  <form>
+    <p> enter your feedback about this course: </p>
+    <textarea placeholder="comments go here">
+    </textarea>
+  
+  
+  <form>
+      <p>select your department: </p>
+    <select>
+      <option>photography </option>
+      <option>textile design </option>
+      <option>fine arts </option>
+      <option>other </option>
+    </select>
+  </form>
+  
+<form>
+  <imput type="checkbox">email me a copy of my response  
+    </imput>
+      </form>
+<button>submit your response </button>
+
+    </form>
+      </body>
+  </html>
