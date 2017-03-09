@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html> 
+    <head>
+    <title>homewrok</title> 
+    </head>
+        
+<body>
+      <h1>BURJ KHALIFA</h1>
+      <h1>The Burj Khalifa is the tallest building in the world.</h1>
+      
+    <!--here is an image from my local folder -->
+       <img src="/imgs/burj.khalifa.jpg" alt="Burj Khalifa" width="300px" >
+   <h2>Breif History</h2>
+<p>The Burj Khalifa, located in Dubai, United Arab Emirates, began its construction in 2004 and was first opened in 2010. The building has a total height of 2,722 ft and has broken a number of world records. The building was desinged by Adrian Smith.  </p>  
+    
+    <h2>World Records.</h2>    
+    <ol>
+        <li>Tallest existing structure (2,789 ft) </li>
+        <li>Tallest structure ever built (2,789 ft) </li>
+        <li>Tallest freestanding structure (2,789 ft) </li>
+        <li>Tallest skyscraper (to top of spire) (2,789 ft) </li>
+        <li>Tallest skyscraper to top of antenna (2,789 ft) </li>
+        <li>Building with most floors 211 </li> 
+        <li>Building with world's highest occupied floor (1,918 ft) </li>
+        <li>World's highest elevator installation </li>
+        <li>World's longest travel distance elevators (1,654 ft) </li>
+        <li>Highest vertical concrete pumping (for a building) (1,988 ft) </li>
+        <li>World's tallest structure that includes residential space </li>
+        <li>World's highest observation deck 148th floor (1,821 ft) </li>
+        <li>World's highest outdoor observation deck 124th floor (1,483 ft) </li>
+        <li>World's highest installation of an aluminium and glass façade (1,680 ft) </li>
+        <li>World's highest nightclub 144th floor </li>
+        <li>World's highest restaurant 122nd floor (1,450 ft) </li> 
+        <li>World's highest New Year display of fireworks </li>
+      
+    <p>official website of the Burj Khalifa.</p>
+        <iframe src="http://www.burjkhalifa.ae/en/index.aspx" width="400px" height="300px" </iframe>
+  <form>
+      <p>Level of interest in subect: </p>
+    <select>
+      <option>not interested </option>
+      <option>somewhat interested </option>
+      <option>very interested </option>S
+    </select>
+  </form>           
+        
+</body>
+</html>
+        
