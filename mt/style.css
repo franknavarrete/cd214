@@ -1,0 +1,17 @@
+#container {align-items: center;
+background-color: darkgray;}
+#title {
+    
+    font-family: monospace;
+    font-size: 2.5em;
+    text-align: center;
+}
+#img {align-items: center;
+    border-top-style: solid
+    border-color: black;
+    border-image-width: 5px;
+}
+#content {font-family:fantasy;
+font-size: 1.5em;
+    text-align: center;
+}
